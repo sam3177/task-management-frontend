@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://sam3177.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://sam3177.github.io/task-management-frontend/static/js/main.29f0e974.chunk.js",
-    "main.js.map": "https://sam3177.github.io/task-management-frontend/static/js/main.29f0e974.chunk.js.map",
+    "main.js": "https://sam3177.github.io/task-management-frontend/static/js/main.f198b73c.chunk.js",
+    "main.js.map": "https://sam3177.github.io/task-management-frontend/static/js/main.f198b73c.chunk.js.map",
     "runtime~main.js": "https://sam3177.github.io/task-management-frontend/static/js/runtime~main.3c5caa31.js",
     "runtime~main.js.map": "https://sam3177.github.io/task-management-frontend/static/js/runtime~main.3c5caa31.js.map",
-    "static/js/2.f755303c.chunk.js": "https://sam3177.github.io/task-management-frontend/static/js/2.f755303c.chunk.js",
-    "static/js/2.f755303c.chunk.js.map": "https://sam3177.github.io/task-management-frontend/static/js/2.f755303c.chunk.js.map",
+    "static/js/2.b779ad59.chunk.js": "https://sam3177.github.io/task-management-frontend/static/js/2.b779ad59.chunk.js",
+    "static/js/2.b779ad59.chunk.js.map": "https://sam3177.github.io/task-management-frontend/static/js/2.b779ad59.chunk.js.map",
     "index.html": "https://sam3177.github.io/task-management-frontend/index.html",
-    "precache-manifest.89e9a6b5e8333d654db6d126b7a366fe.js": "https://sam3177.github.io/task-management-frontend/precache-manifest.89e9a6b5e8333d654db6d126b7a366fe.js",
+    "precache-manifest.4f8a01a9213a2c28ca3c9408e0e12918.js": "https://sam3177.github.io/task-management-frontend/precache-manifest.4f8a01a9213a2c28ca3c9408e0e12918.js",
     "service-worker.js": "https://sam3177.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://sam3177.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
